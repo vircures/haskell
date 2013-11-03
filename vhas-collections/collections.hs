@@ -1,3 +1,7 @@
+module VHasCollections
+( funmap
+) where
+
 -- Whereas map maps a function to each entry in the list: map f list
 -- funmap maps a list of functions to one variable: map var flist
 -- Note: My initial intention is to allow a list of functions that
