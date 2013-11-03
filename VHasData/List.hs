@@ -1,4 +1,4 @@
-module List
+module VHasData.List
 ( funmap
 ) where
 
